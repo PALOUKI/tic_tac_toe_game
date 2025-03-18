@@ -13,7 +13,9 @@ flutter run
 
 |              Home             |             SignUP          |             SignIn           |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-| <img src="https://github.com/PALOUKI/screenshots/un.png" width="350"> | <img src="https://github.com/PALOUKI/screenshots/deux.png" width="350"> | <img src="https://github.com/PALOUKI/screenshots/trois.png" width="350"> |
+| <img src="https://github.com/PALOUKI/tic_tac_toe_game/blob/main/screenshoots/un.png" width="350"> | <img src="https://github.com/bernadinkele/taskMaster/blob/main/screenShoots/2.png" width="350"> | <img src="https://github.com/bernadinkele/taskMaster/blob/main/screenShoots/3.png" width="350"> |
 
+
+### ⚡️ My Social Medias
 
 
