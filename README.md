@@ -11,11 +11,14 @@ flutter run
 
 ### App Preview
 
-|              Home             |             SignUP          |             SignIn           |
+|              ****             |             ****          |             ****           |
 | :----------------------------------: | :----------------------------------: | :----------------------------------: |
-| <img src="https://github.com/PALOUKI/tic_tac_toe_game/blob/main/screenshots/cinq.png" width="350"> | <img src="https://github.com/bernadinkele/taskMaster/blob/main/screenShoots/2.png" width="350"> | <img src="https://github.com/bernadinkele/taskMaster/blob/main/screenShoots/3.png" width="350"> |
+| <img src="https://github.com/PALOUKI/tic_tac_toe_game/blob/main/screenshots/un.png" width="350"> |  <img src="https://github.com/PALOUKI/tic_tac_toe_game/blob/main/screenshots/deux.png" width="350"> |  <img src="https://github.com/PALOUKI/tic_tac_toe_game/blob/main/screenshots/trois.png" width="350"> |
+
+|              ****             |             ****          |             ****           |
+| :----------------------------------: | :----------------------------------: | :----------------------------------: |
+| <img src="https://github.com/PALOUKI/tic_tac_toe_game/blob/main/screenshots/quatre.png" width="350"> |  <img src="https://github.com/PALOUKI/tic_tac_toe_game/blob/main/screenshots/cinq.png" width="350"> |  <img src="https://github.com/PALOUKI/tic_tac_toe_game/blob/main/screenshots/six.png" width="350"> |
 
 
-### ⚡️ My Social Medias
 
 
