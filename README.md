@@ -1,16 +1,19 @@
 # tic_tac_toe
 
-A new Flutter project.
+### Get Started
 
-## Getting Started
+```shell
+git clone https://github.com/PALOUKI/tic_tac_toe_game.git
+flutter clean
+flutter packages get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+### App Preview
 
-A few resources to get you started if this is your first Flutter project:
+|              Home             |             SignUP          |             SignIn           |
+| :----------------------------------: | :----------------------------------: | :----------------------------------: |
+| <img src="https://github.com/PALOUKI/screenshots/un.png" width="350"> | <img src="https://github.com/PALOUKI/screenshots/deux.png" width="350"> | <img src="https://github.com/PALOUKI/screenshots/trois.png" width="350"> |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
